@@ -1,0 +1,18 @@
+{
+    "topicosMaisRecentes": [
+      "Como otimizar o desempenho de um site em React?",
+      "Dicas para aprender programação mais rapidamente",
+      "Qual é a melhor linguagem de programação para começar?"
+    ],
+    "topicosMaisRespondidos": [
+      "Como resolver problemas de CORS em uma aplicação web?",
+      "Qual é a diferença entre JavaScript e TypeScript?",
+      "Como utilizar a biblioteca React Router?"
+    ],
+    "topicosMaisCurtidos": [
+      "Quais são as melhores práticas para o design responsivo?",
+      "Como implementar autenticação com JWT em uma API REST?",
+      "Dicas para melhorar a segurança de um aplicativo web"
+    ]
+  }
+  

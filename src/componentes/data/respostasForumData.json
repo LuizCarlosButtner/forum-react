@@ -1,0 +1,26 @@
+{
+    "respostas": [
+      {
+        "id": 1,
+        "resposta": "A melhor linguagem de programação depende do contexto e dos requisitos do projeto. Algumas linguagens populares incluem JavaScript, Python, Java, C++ e Ruby. Cada uma tem suas vantagens e desvantagens, e a escolha certa depende das necessidades específicas.",
+        "autor": "Maria Silva",
+        "data": "2023-06-15",
+        "curtidas": 10
+      },
+      {
+        "id": 2,
+        "resposta": "Na minha opinião, a linguagem de programação mais adequada é o JavaScript. Ela é amplamente utilizada no desenvolvimento web, possui uma grande comunidade de desenvolvedores e oferece muitas bibliotecas e frameworks úteis.",
+        "autor": "João Santos",
+        "data": "2023-06-17",
+        "curtidas": 5
+      },
+      {
+        "id": 3,
+        "resposta": "Cada linguagem de programação tem suas vantagens e desvantagens. Não existe uma resposta definitiva para essa pergunta. No entanto, se você está interessado em aprendizado de máquina e ciência de dados, Python é uma ótima opção devido às suas bibliotecas poderosas, como TensorFlow e scikit-learn.",
+        "autor": "Ana Rodrigues",
+        "data": "2023-06-19",
+        "curtidas": 8
+      }
+    ]
+  }
+  
